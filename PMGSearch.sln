@@ -6,21 +6,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMGSearchTestHarness", "PMGSearchTestHarness\PMGSearchTestHarness.csproj", "{BFEE3636-E8E2-433F-99DD-95B3193A179E}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://dbvss:8080/
-		SccProjectUniqueName0 = PMGSearch\\PMGSearch.csproj
-		SccProjectName0 = PMGSearch
-		SccAuxPath0 = http://dbvss:8080
-		SccLocalPath0 = PMGSearch
-		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccProjectUniqueName1 = PMGSearchTestHarness\\PMGSearchTestHarness.csproj
-		SccProjectName1 = PMGSearchTestHarness
-		SccAuxPath1 = http://dbvss:8080
-		SccLocalPath1 = PMGSearchTestHarness
-		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
